@@ -36,6 +36,7 @@ The movies mark could be an average of multiple `providers` (i.e. Allociné)
 - Python
 - Tkinter ?
 - Scrappy ?
+- [PyInstaller](https://github.com/pyinstaller/pyinstaller/) -> deployment
 
 ### Tools
  - http://asciiflow.com/ for the Scheme
