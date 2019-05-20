@@ -1,3 +1,4 @@
+🛑 Since the owner of this project found a Netflix account, it has stopped.
 # Notflix
 A service listing the latest movies available on different providers (i.e. Zone T.)
 
